@@ -119,7 +119,7 @@ Handles:
 ### **1. Clone the Repo**
 
 ```bash
-git clone https://github.com/<your-username>/mediflow_ai.git
+git clone https://github.com/bidit06/MediFlow-AI.git
 cd mediflow_ai
 ```
 
@@ -137,6 +137,7 @@ Create `.env`:
 GOOGLE_API_KEY=your_key_here
 GOOGLE_GENAI_MODEL=gemini-2.0-flash-exp
 ```
+You can use any GENAI Model
 
 ---
 
